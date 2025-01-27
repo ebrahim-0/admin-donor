@@ -1,0 +1,72 @@
+{
+  "dashboard_title": "لوحة التحكم",
+  "user_requests": "طلبات المستخدمين",
+  "pending_donor_requests": "طلبات المتبرعين المعلقة",
+  "view_reports": "عرض التقارير",
+  
+  "requests_details": "تفاصيل الطلبات",
+  "donors_details": "تفاصيل المتبرعين",
+  "reports": "التقارير",
+  "Total_Donor_Requests": "إجمالي طلبات المتبرعين",
+  "all_donors": "جميع المتبرعين",
+  "donors_blocked": "المتبرعين المحظورون",
+  "users_info": "معلومات المستخدمين",
+  "total_blood_requests": "إجمالي طلبات الدم",
+  "pending_donation_requests": "طلبات التبرع المعلقة",
+  "verified_donors_list": "قائمة المتبرعين المعتمدين",
+  "user_accounts": "حسابات المستخدمين",
+  "change_user_status": "تغيير حالة المستخدم",  "search_by_name_blood_type_or_city": "ابحث بالاسم، فصيلة الدم، أو المدينة" ,
+
+  "blood_type": "فصيلة الدم",
+  "city": "المدينة",
+  "Total_Pending_Donor_Requests": "إجمالي طلبات المتبرعين المعلقة",
+  "contact_number": "رقم الاتصال", "donorDetails": "تفاصيل المتبرع",
+  "address": "العنوان: ",
+
+
+
+  "Current_Users_Account": "حسابات المستخدمين الحالية",
+  "age": "العمر",
+  "settings": "الاعدادات",
+  "User_Details": "تفاصيل المستخدم",
+  "all_available_donors": "جميع المتبرعين المتاحين",
+  "gender": "الجنس",
+  "hospitalName": "اسم المستشفى",
+  "medicalConditions": "الحالات الطبية",
+  "name": "الاسم",
+  "nextDonationDate": "تاريخ التبرع القادم",
+  "notes": "ملاحظات",
+  "units": "الوحدات",
+  "none": "لا يوجد",
+  "nA": "غير متاح",
+
+
+  "dob": "تاريخ الميلاد: ",
+  "allergies": "الحساسية: ",
+  "diagnosedConditions": "الحالات المشخصة: ",
+  "height": "الطول: ",
+  "weight": "الوزن: ",
+  "noName": "لا اسم",
+
+  "lastDonationDate": "تاريخ التبرع الأخير: ",
+  "contactNumber": "رقم الهاتف: ",
+  "status": "الحالة",
+  "unknown": "غير معروف",
+  "blocked_users": "المستخدمون المحظورون",
+  "total_rejacted_requests": "إجمالي الطلبات المرفوضة",
+  "allowed_users": "المستخدمون المسموح لهم"
+,
+
+
+"contact": "Contact",
+"lastDonation": "Last Donation"
+
+
+
+
+
+
+
+
+
+}

@@ -1,0 +1,70 @@
+{
+  "dashboard_title": "Dashboard",
+  "user_requests": "User Requests",
+  "pending_donor_requests": "Pending Donor Requests",
+  "view_reports": "View Reports",
+  "settings": "Settings",
+  "requests_details": "Requests Details",
+  "donors_details": "Donors Details",
+  "reports": "Reports",
+  "Total_Donor_Requests": "Total Donor Requests",
+  "all_donors": "All Donors",
+  "donors_blocked": "Donors Blocked",
+  "users_info": " Users Info",
+  "search_by_name_blood_type_or_city": "Search by name, blood type, or city" ,
+  "total_blood_requests": "Total Blood Requests",
+
+
+
+
+
+  "age": "Age",
+  "User_Details": "User Details",
+  "gender": "Gender",
+  "hospitalName": "Hospital Name",
+  "medicalConditions": "Medical Conditions",
+  "name": "Name",
+  "nextDonationDate": "Next Donation Date",
+  "notes": "Notes",
+  "units": "Units",
+  "none": "None",
+  "Current_Users_Account": " Current Users Account",
+  "nA": "N/A",
+
+
+  "pending_donation_requests": "Pending Donation Requests",
+  "verified_donors_list": "Verified Donors List",
+  "user_accounts": "User Accounts",
+  "change_user_status": "Change User Status",
+  "blocked_users": "Blocked Users",
+  "total_rejacted_requests": " Total Requested Rejected",
+  "donorDetails": "Donor Details",
+  "address": "Address: ",
+  "bloodType": "Blood Type: ",
+  "dob": "Date of Birth: ",
+  "allergies": "Allergies: ",
+  "diagnosedConditions": "Diagnosed Conditions: ",
+  "height": "Height: ",
+  "weight": "Weight: ",
+  "lastDonationDate": "Last Donation Date: ",
+  "contactNumber": "Contact Number: ",  "noName": "No Name"
+,
+  "blood_type": "Blood Type",
+  "contact_number": "Contact Number",
+  "city": "City",
+  "Total_Pending_Donor_Requests": "Total Pending Donor Requests",
+  "status": "Status",
+  "unknown": "Unknown",
+  "all_available_donors": "All Available Donors",
+
+
+
+
+
+  "contact": "رقم الاتصال",
+  "lastDonation": "آخر تبرع",
+
+
+
+  "allowed_users": "Allowed Users"
+}
